@@ -48,6 +48,7 @@ enum PurchseMode{
         invalid,
         sdcard,
         pendrive,
+        webaccess,
         both
         }
 
@@ -64,10 +65,10 @@ public class CourseDetailsActivity extends AppCompatActivity {
 	private Button enroll;
 	private TextView tv6, tv7, tv16, tv17;
     private String priceINR, priceUSD;
-	private ImageView sdCardImage;
+	private ImageView sdCardImage, webImage; //added
     private int count = -1;
 
-    private CheckBox payWithSd, payWithPenDrive;
+    private CheckBox payWithSd, payWithPenDrive, payWithWebAccess; //added
     private LinearLayout courseDetails,courseFeeDetails;
     private TextView border;
     private int lastSelected; //1-sdcard, 2-pendrive
@@ -131,6 +132,7 @@ public class CourseDetailsActivity extends AppCompatActivity {
 
         payWithSd = (CheckBox) findViewById(R.id.payWithSd);
         payWithPenDrive = (CheckBox) findViewById(R.id.payWithPenDrive);
+        payWithWebAccess = (CheckBox) findViewById(R.id.payWithWebAccess); //added
         courseDetails = (LinearLayout) findViewById(R.id.courseDetails);
         courseFeeDetails = (LinearLayout) findViewById(R.id.courseFeeDetails);
         border = (TextView) findViewById(R.id.border);
@@ -141,15 +143,40 @@ public class CourseDetailsActivity extends AppCompatActivity {
                 courseDetails.setVisibility(View.VISIBLE);
                 courseFeeDetails.setVisibility(View.VISIBLE);
                 border.setVisibility(View.VISIBLE);
-                if(payWithSd.isChecked() && payWithPenDrive.isChecked()){
+
+                //added - Modified login to accommodate additional checkbox
+                if((payWithSd.isChecked() && payWithPenDrive.isChecked()) || (payWithSd.isChecked() && payWithWebAccess.isChecked())
+                        || (payWithWebAccess.isChecked() && payWithPenDrive.isChecked())){
                     if(lastSelected == 1){
-                        lastSelected = 2;
-                        purchseMode = PurchseMode.pendrive;
-                        payWithSd.setChecked(false);
-                    }else{
-                        lastSelected = 1;
-                        purchseMode = PurchseMode.sdcard;
-                        payWithPenDrive.setChecked(false);
+                        if(payWithPenDrive.isChecked()){
+                            lastSelected = 2;
+                            purchseMode = PurchseMode.pendrive;
+                            payWithSd.setChecked(false);
+                        } else {
+                            lastSelected = 3;
+                            purchseMode = PurchseMode.webaccess;
+                            payWithSd.setChecked(false);
+                        }
+                    }else if(lastSelected == 2){
+                        if(payWithSd.isChecked()){
+                            lastSelected = 1;
+                            purchseMode = PurchseMode.sdcard;
+                            payWithPenDrive.setChecked(false);
+                        } else {
+                            lastSelected = 3;
+                            purchseMode = PurchseMode.webaccess;
+                            payWithPenDrive.setChecked(false);
+                        }
+                    } else {
+                        if(payWithSd.isChecked()){
+                            lastSelected = 1;
+                            purchseMode = PurchseMode.sdcard;
+                            payWithWebAccess.setChecked(false);
+                        } else {
+                            lastSelected = 2;
+                            purchseMode = PurchseMode.pendrive;
+                            payWithWebAccess.setChecked(false);
+                        }
                     }
                     /*purchseMode = PurchseMode.both;
                     tv6.setText("\u20B9 "+((Integer.parseInt(course_fee_inr.trim())*2)));
@@ -170,7 +197,14 @@ public class CourseDetailsActivity extends AppCompatActivity {
                     tv16.setText("\u20B9 "+((Integer.parseInt(course_fee_inr_after_discount.trim()))));
                     tv7.setText("$ "+((Integer.parseInt(course_fee_usd.trim()))));
                     tv17.setText("$ "+((Integer.parseInt(course_fee_usd_after_discount.trim()))));
-                }else{
+                } else if(payWithWebAccess.isChecked()){ //added else if
+                    lastSelected = 3;
+                    purchseMode = PurchseMode.webaccess;
+                    tv6.setText("\u20B9 "+((Integer.parseInt(course_fee_inr.trim()))));
+                    tv16.setText("\u20B9 "+((Integer.parseInt(course_fee_inr_after_discount.trim()))));
+                    tv7.setText("$ "+((Integer.parseInt(course_fee_usd.trim()))));
+                    tv17.setText("$ "+((Integer.parseInt(course_fee_usd_after_discount.trim()))));
+                } else{
                     purchseMode = PurchseMode.invalid;
                     tv6.setText("\u20B9 "+((Integer.parseInt(course_fee_inr.trim()))));
                     tv16.setText("\u20B9 "+((Integer.parseInt(course_fee_inr_after_discount.trim()))));
@@ -192,6 +226,7 @@ public class CourseDetailsActivity extends AppCompatActivity {
 
         payWithSd.setOnCheckedChangeListener(paywithclicklistner2);
         payWithPenDrive.setOnCheckedChangeListener(paywithclicklistner2);
+        payWithWebAccess.setOnCheckedChangeListener(paywithclicklistner2); //added
         //payWithSd.setOnClickListener(paywithclicklistener);
         //payWithPenDrive.setOnClickListener(paywithclicklistener);
 
@@ -265,7 +300,8 @@ public class CourseDetailsActivity extends AppCompatActivity {
                     priceUSD = ""+(Integer.parseInt(course_fee_usd)*2);
                     price_inr_after_discount = ""+(Integer.parseInt(course_fee_inr_after_discount.trim())*2);
                     price_usd_after_discount = ""+(Integer.parseInt(course_fee_usd_after_discount.trim())*2);
-                }else if(purchseMode == PurchseMode.sdcard || purchseMode == PurchseMode.pendrive){
+                }else if(purchseMode == PurchseMode.sdcard || purchseMode == PurchseMode.pendrive
+                        || purchseMode == PurchseMode.webaccess){
                     priceINR = ""+(Integer.parseInt(course_fee_inr));
                     priceUSD = ""+(Integer.parseInt(course_fee_usd));
                     price_inr_after_discount = ""+(Integer.parseInt(course_fee_inr_after_discount.trim()));
@@ -276,7 +312,8 @@ public class CourseDetailsActivity extends AppCompatActivity {
                 bnd.putString("priceUSD",priceUSD);
                 bnd.putString("price_inr_after_discount",price_inr_after_discount);
                 bnd.putString("price_usd_after_discount", price_usd_after_discount);
-                if(purchseMode == PurchseMode.both) {
+
+                if(purchseMode == PurchseMode.webaccess) {
                     bnd.putInt("purchaseWith", 2);
                 }else if(purchseMode == PurchseMode.pendrive){
                     bnd.putInt("purchaseWith", 1);

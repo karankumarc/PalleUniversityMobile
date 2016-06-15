@@ -20,7 +20,7 @@ import android.widget.TextView;
 
 public class MyDialog extends DialogFragment {
 	Button b1,b2;
-    ImageView iv1, iv2;
+    ImageView iv1, iv2, iv3; //added iv3
 	TextView tv1,tv2,tv3,tv4,tv5,s1,s2,s3,s4,coursename;
 	LinearLayout lv;
 	String course, course_id;
@@ -58,14 +58,21 @@ public class MyDialog extends DialogFragment {
 
         iv1 = (ImageView) v.findViewById(R.id.sdCardImage);
         iv2 = (ImageView) v.findViewById(R.id.penDriveImage);
+		iv3 = (ImageView) v.findViewById(R.id.webDialogImage); //Added
 
-        switch(purchaseMode){
+		switch(purchaseMode){
             case 0://purchase only sdcard
-                iv2.setVisibility(View.INVISIBLE);
+				iv2.setVisibility(View.INVISIBLE);
+                iv3.setVisibility(View.INVISIBLE);
                 break;
             case 1://purchase only pendrive
                 iv1.setVisibility(View.INVISIBLE);
+				iv3.setVisibility(View.INVISIBLE);
                 break;
+			case 2://purchase only with web access
+				iv1.setVisibility(View.INVISIBLE);
+				iv2.setVisibility(View.INVISIBLE);
+				break;
         }
 		s1=(TextView) v.findViewById(R.id.textView6);
 		s2=(TextView) v.findViewById(R.id.textView7);

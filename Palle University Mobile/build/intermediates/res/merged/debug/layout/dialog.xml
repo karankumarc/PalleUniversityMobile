@@ -63,6 +63,14 @@
                     android:paddingTop="2dp"
                     android:layout_weight=".5"
                     android:src="@drawable/pen_drive_black_small"/>
+                <ImageView
+                    android:id="@+id/webDialogImage"
+                    android:layout_width="0dp"
+                    android:layout_gravity="center"
+                    android:layout_height="wrap_content"
+                    android:paddingTop="2dp"
+                    android:layout_weight=".5"
+                    android:src="@drawable/ic_web_black_24dp"/>
 
             </LinearLayout>
             <LinearLayout android:layout_width="wrap_content"

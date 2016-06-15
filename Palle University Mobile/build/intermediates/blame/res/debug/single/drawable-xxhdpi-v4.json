@@ -52,6 +52,10 @@
         "source": "D:\\Android\\AndroidStudioProjects\\PalleTech\\POC2\\Palle University Mobile\\src\\main\\res\\drawable-xxhdpi\\ic_play_circle_outline_black_24dp.png"
     },
     {
+        "merged": "D:\\Android\\AndroidStudioProjects\\PalleTech\\POC2\\Palle University Mobile\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\ic_web_black_24dp.png",
+        "source": "D:\\Android\\AndroidStudioProjects\\PalleTech\\POC2\\Palle University Mobile\\src\\main\\res\\drawable-xxhdpi\\ic_web_black_24dp.png"
+    },
+    {
         "merged": "D:\\Android\\AndroidStudioProjects\\PalleTech\\POC2\\Palle University Mobile\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\abc_list_pressed_holo_light.9.png",
         "source": "D:\\Android\\AndroidStudioProjects\\PalleTech\\POC2\\Palle University Mobile\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-xxhdpi\\abc_list_pressed_holo_light.9.png"
     },
