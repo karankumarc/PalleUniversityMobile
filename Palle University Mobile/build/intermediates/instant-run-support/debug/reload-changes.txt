@@ -1,5 +1,4 @@
 CHANGED,D:\Android\AndroidStudioProjects\PalleTech\POC2\Palle University Mobile\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\techpalle\poc\CourseDetailsActivity$override.class
-CHANGED,D:\Android\AndroidStudioProjects\PalleTech\POC2\Palle University Mobile\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\techpalle\poc\CourseDetailsActivity$3$override.class
 CHANGED,D:\Android\AndroidStudioProjects\PalleTech\POC2\Palle University Mobile\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\android\tools\fd\runtime\AppPatchesLoaderImpl.class
 CHANGED,D:\Android\AndroidStudioProjects\PalleTech\POC2\Palle University Mobile\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\techpalle\poc\CourseDetailsActivity$1$override.class
 CHANGED,D:\Android\AndroidStudioProjects\PalleTech\POC2\Palle University Mobile\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\techpalle\poc\CourseDetailsActivity$2$override.class

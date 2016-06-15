@@ -36,6 +36,7 @@ import android.widget.CompoundButton;
 import android.widget.ImageView;
 import android.widget.LinearLayout;
 import android.widget.ListView;
+import android.widget.RadioButton;
 import android.widget.TextView;
 import android.widget.Toast;
 
@@ -68,7 +69,9 @@ public class CourseDetailsActivity extends AppCompatActivity {
 	private ImageView sdCardImage, webImage; //added
     private int count = -1;
 
-    private CheckBox payWithSd, payWithPenDrive, payWithWebAccess; //added
+    private RadioButton payWithSd, payWithPenDrive, payWithWebAccess;
+    /*private CheckBox payWithSd, payWithPenDrive, payWithWebAccess; //added
+    */
     private LinearLayout courseDetails,courseFeeDetails;
     private TextView border;
     private int lastSelected; //1-sdcard, 2-pendrive
@@ -130,13 +133,20 @@ public class CourseDetailsActivity extends AppCompatActivity {
         courseTitle = (TextView) findViewById(R.id.courseTitle);
         courseTitle.setText(course);
 
-        payWithSd = (CheckBox) findViewById(R.id.payWithSd);
+        payWithSd = (RadioButton) findViewById(R.id.sdCardRadioBtn);
+        payWithPenDrive = (RadioButton) findViewById(R.id.penDriveRadioButton);
+        payWithWebAccess = (RadioButton) findViewById(R.id.webAccessRadioBtn);
+
+
+        /*payWithSd = (CheckBox) findViewById(R.id.payWithSd);
         payWithPenDrive = (CheckBox) findViewById(R.id.payWithPenDrive);
         payWithWebAccess = (CheckBox) findViewById(R.id.payWithWebAccess); //added
+        */
         courseDetails = (LinearLayout) findViewById(R.id.courseDetails);
         courseFeeDetails = (LinearLayout) findViewById(R.id.courseFeeDetails);
         border = (TextView) findViewById(R.id.border);
 
+/*
         CompoundButton.OnCheckedChangeListener paywithclicklistner2 = new CompoundButton.OnCheckedChangeListener() {
             @Override
             public void onCheckedChanged(CompoundButton buttonView, boolean isChecked) {
@@ -178,11 +188,11 @@ public class CourseDetailsActivity extends AppCompatActivity {
                             payWithWebAccess.setChecked(false);
                         }
                     }
-                    /*purchseMode = PurchseMode.both;
+                    *//*purchseMode = PurchseMode.both;
                     tv6.setText("\u20B9 "+((Integer.parseInt(course_fee_inr.trim())*2)));
                     tv16.setText("\u20B9 "+((Integer.parseInt(course_fee_inr_after_discount.trim())*2)));
                     tv7.setText("$ "+((Integer.parseInt(course_fee_usd.trim())*2)));
-                    tv17.setText("$ "+((Integer.parseInt(course_fee_usd_after_discount.trim())*2)));*/
+                    tv17.setText("$ "+((Integer.parseInt(course_fee_usd_after_discount.trim())*2)));*//*
                 }else if(payWithSd.isChecked()){
                     lastSelected = 1;
                     purchseMode = PurchseMode.sdcard;
@@ -212,21 +222,41 @@ public class CourseDetailsActivity extends AppCompatActivity {
                     tv17.setText("$ "+((Integer.parseInt(course_fee_usd_after_discount.trim()))));
                 }
                 //tv6.setText("\u20B9 "+course_fee_inr);
-
-
             }
-        };
+        };*/
 
         OnClickListener paywithclicklistener = new OnClickListener() {
             @Override
             public void onClick(View v) {
+                courseDetails.setVisibility(View.VISIBLE);
+                courseFeeDetails.setVisibility(View.VISIBLE);
+                border.setVisibility(View.VISIBLE);
+                switch (v.getId()){
+                    case R.id.sdCardRadioBtn:
+                        purchseMode = PurchseMode.sdcard;
+                        break;
+                    case R.id.penDriveRadioButton:
+                        purchseMode = PurchseMode.pendrive;
+                        break;
+                    case R.id.webAccessRadioBtn:
+                        purchseMode = PurchseMode.webaccess;
+                        break;
+                    default: purchseMode = PurchseMode.invalid;
+                }
+                tv6.setText("\u20B9 "+((Integer.parseInt(course_fee_inr.trim()))));
+                tv16.setText("\u20B9 "+((Integer.parseInt(course_fee_inr_after_discount.trim()))));
+                tv7.setText("$ "+((Integer.parseInt(course_fee_usd.trim()))));
+                tv17.setText("$ "+((Integer.parseInt(course_fee_usd_after_discount.trim()))));
             }
         };
 
+        payWithSd.setOnClickListener(paywithclicklistener);
+        payWithPenDrive.setOnClickListener(paywithclicklistener);
+        payWithWebAccess.setOnClickListener(paywithclicklistener);
 
-        payWithSd.setOnCheckedChangeListener(paywithclicklistner2);
+        /*payWithSd.setOnCheckedChangeListener(paywithclicklistner2);
         payWithPenDrive.setOnCheckedChangeListener(paywithclicklistner2);
-        payWithWebAccess.setOnCheckedChangeListener(paywithclicklistner2); //added
+        payWithWebAccess.setOnCheckedChangeListener(paywithclicklistner2);*/
         //payWithSd.setOnClickListener(paywithclicklistener);
         //payWithPenDrive.setOnClickListener(paywithclicklistener);
 
