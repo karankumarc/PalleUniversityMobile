@@ -56,7 +56,19 @@
                         android:layout_height="wrap_content"
                         android:layout_weight=".5"
                         android:src="@drawable/pen_drive_black_small"/>
-
+					<CheckBox
+						android:id="@+id/payWithWebAccess"
+						android:layout_width="0dp"
+						android:text="Pen Drive"
+						android:layout_height="wrap_content"
+						android:layout_weight="2"/>
+					<ImageView
+						android:id="@+id/webImage"
+						android:layout_width="0dp"
+						android:layout_gravity="center"
+						android:layout_height="wrap_content"
+						android:layout_weight=".5"
+						android:src="@drawable/ic_web_black_24dp"/>
                 </LinearLayout>
                 <TextView
                     android:id="@+id/border"
