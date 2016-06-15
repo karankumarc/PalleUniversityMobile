@@ -1,0 +1,198 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    	 xmlns:android="http://schemas.android.com/apk/res/android"
+         android:layout_width="match_parent"
+         android:layout_height="wrap_content"
+         android:orientation="vertical" >
+         	<android.support.v7.widget.CardView
+     			android:id="@+id/cv0"
+     			android:layout_width="match_parent"
+     			android:layout_height="wrap_content">
+     		<LinearLayout
+     	    android:layout_width="match_parent"
+        	android:layout_height="wrap_content"
+        	android:background="@drawable/course_fee_border"
+         	android:orientation="vertical" >
+         	
+     		<LinearLayout
+     		android:layout_weight="1"    
+     	    android:layout_width="match_parent"
+        	android:layout_height="0dp"
+        	android:layout_marginLeft="5dp"
+         	android:orientation="horizontal" >
+         	<TextView android:id="@+id/coursename"
+		                   android:layout_width="0dp"
+		                   android:layout_weight="1"
+                            android:layout_marginLeft="10dp"
+         				   android:layout_height="match_parent"
+         				   android:text="Course\nName"
+         				   android:textColor="#000000"
+         				   android:textStyle="bold"
+		          />
+         	<TextView android:id="@+id/priceinr"
+		                   android:layout_width="0dp"
+		                   android:layout_weight="1"
+         				   android:layout_height="match_parent"
+         				   android:text="Price in\nINR"
+         				   android:textColor="#000000"
+         				   android:textStyle="bold"
+		          />
+         	<TextView android:id="@+id/priceusd"
+		                   android:layout_width="0dp"
+		                   android:layout_weight="1"
+                           android:layout_height="match_parent"
+         				   android:text="Price in\nUSD"
+         				   android:textColor="#000000"
+         				   android:textStyle="bold"
+		          />
+         	<TextView android:id="@+id/unused"
+		                   android:layout_width="0dp"
+		                   android:layout_weight="1"
+         				   android:layout_height="match_parent"
+         				   android:text="Pay with"
+         				   android:textColor="#000000"
+         				   android:textStyle="bold"
+		          />
+         	
+     		</LinearLayout>
+     		<LinearLayout
+     		android:layout_weight="1"
+     		android:layout_marginTop="5dp"
+     		android:background="#dff0d8"   
+     		android:layout_marginLeft="5dp" 
+     	    android:layout_width="match_parent"
+        	android:layout_height="0dp"
+         	android:orientation="horizontal" >
+
+				<LinearLayout android:layout_height="match_parent"
+					android:layout_width="0dp"
+					android:layout_weight="3"
+                    android:gravity="center"
+
+					android:background="@drawable/my_shape2"
+
+					android:orientation="horizontal">
+
+					<TextView
+						android:id="@+id/courseTitle"
+						android:layout_width="0dp"
+						android:layout_weight="1"
+						android:layout_height="wrap_content"
+						android:layout_margin="10dp"
+						android:text="C# for\nFreshers"
+						android:textColor="#000000"/>
+					<LinearLayout  android:layout_width="0dp"
+						android:layout_height="wrap_content"
+						android:layout_weight="1"
+						android:orientation="vertical" >
+						<TextView
+							android:id="@+id/textView6"
+							android:layout_width="wrap_content"
+							android:layout_height="wrap_content"
+							android:layout_margin="5dp"
+							android:text="$9999"
+							android:gravity="center"
+							android:textColor="#f00"/>
+
+						<TextView
+							android:id="@+id/textView16"
+							android:layout_width="wrap_content"
+							android:layout_height="wrap_content"
+							android:layout_margin="5dp"
+							android:text="\u20B9 7991"
+							android:textColor="#000"/>
+					</LinearLayout>
+					<LinearLayout  android:layout_width="0dp"
+						android:layout_height="wrap_content"
+						android:layout_weight="1"
+						android:orientation="vertical" >
+						<TextView
+							android:id="@+id/textView7"
+							android:layout_width="wrap_content"
+							android:layout_height="wrap_content"
+							android:paddingLeft="5dp"
+							android:layout_margin="5dp"
+							android:text="$444"
+							android:textColor="#f00"/>
+
+						<TextView
+							android:id="@+id/textView17"
+							android:layout_width="wrap_content"
+							android:layout_height="wrap_content"
+							android:layout_margin="5dp"
+							android:paddingLeft="5dp"
+							android:text="$ 150"
+							android:textColor="#000"/>
+					</LinearLayout>
+				</LinearLayout>
+				<LinearLayout  android:layout_width="0dp"
+					android:layout_height="wrap_content"
+					android:layout_weight="1"
+					android:layout_marginLeft="10dp"
+					android:layout_marginRight="10dp"
+					android:orientation="vertical" >
+
+				<Button android:id="@+id/ccavenue"
+		                   android:layout_width="match_parent"
+		                   android:layout_weight="1"
+         				   android:layout_height="0dp"
+         				   android:text="CC Avenue"
+							android:layout_marginBottom="5dp"
+         				   android:textColor="#ffffff"
+         				   android:background="@drawable/button_shape"
+		          />
+					<Button android:id="@+id/paypal"
+						android:layout_width="match_parent"
+						android:layout_weight="1"
+						android:layout_height="0dp"
+						android:text="PAYPAL"
+						android:textColor="#ffffff"
+						android:background="@drawable/button_shape"
+
+						/>
+				</LinearLayout>
+     		</LinearLayout>
+     					
+     		</LinearLayout>
+     		</android.support.v7.widget.CardView>
+
+	<LinearLayout
+		android:orientation="horizontal"
+		android:layout_width="match_parent"
+		android:layout_marginTop="5dp"
+		android:background="#cccccc"
+		android:layout_height="wrap_content">
+
+		<TextView
+            android:layout_width="0dp"
+			android:layout_weight="6"
+            android:layout_height="wrap_content"
+            android:textAppearance="?android:attr/textAppearanceLarge"
+            android:text="Login"
+			android:textColor="#eeeeee"
+			android:layout_marginRight="2dp"
+			android:background="#337ab7"
+            android:id="@+id/textView1" />
+
+
+		<TextView
+			android:layout_width="0dp"
+			android:layout_weight="6"
+			android:layout_height="wrap_content"
+			android:textAppearance="?android:attr/textAppearanceLarge"
+			android:text="Status"
+			android:textColor="#ffffff"
+			android:id="@+id/textView3" />
+
+	</LinearLayout>
+
+	<FrameLayout
+		android:layout_width="match_parent"
+		android:id="@+id/container"
+		android:layout_height="wrap_content">
+
+	</FrameLayout>
+
+
+</LinearLayout>
+	

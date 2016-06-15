@@ -1,0 +1,390 @@
+[
+    {
+        "merged": "D:\\Android\\AndroidStudioProjects\\PalleTech\\POC2\\Palle University Mobile\\build\\intermediates\\res\\merged\\debug\\layout\\frag3.xml",
+        "source": "D:\\Android\\AndroidStudioProjects\\PalleTech\\POC2\\Palle University Mobile\\src\\main\\res\\layout\\frag3.xml"
+    },
+    {
+        "merged": "D:\\Android\\AndroidStudioProjects\\PalleTech\\POC2\\Palle University Mobile\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view.xml",
+        "source": "D:\\Android\\AndroidStudioProjects\\PalleTech\\POC2\\Palle University Mobile\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_activity_chooser_view.xml"
+    },
+    {
+        "merged": "D:\\Android\\AndroidStudioProjects\\PalleTech\\POC2\\Palle University Mobile\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_view_list_nav_layout.xml",
+        "source": "D:\\Android\\AndroidStudioProjects\\PalleTech\\POC2\\Palle University Mobile\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_action_bar_view_list_nav_layout.xml"
+    },
+    {
+        "merged": "D:\\Android\\AndroidStudioProjects\\PalleTech\\POC2\\Palle University Mobile\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple.xml",
+        "source": "D:\\Android\\AndroidStudioProjects\\PalleTech\\POC2\\Palle University Mobile\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_screen_simple.xml"
+    },
+    {
+        "merged": "D:\\Android\\AndroidStudioProjects\\PalleTech\\POC2\\Palle University Mobile\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_item_material.xml",
+        "source": "D:\\Android\\AndroidStudioProjects\\PalleTech\\POC2\\Palle University Mobile\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\select_dialog_item_material.xml"
+    },
+    {
+        "merged": "D:\\Android\\AndroidStudioProjects\\PalleTech\\POC2\\Palle University Mobile\\build\\intermediates\\res\\merged\\debug\\layout\\termsandconditions.xml",
+        "source": "D:\\Android\\AndroidStudioProjects\\PalleTech\\POC2\\Palle University Mobile\\src\\main\\res\\layout\\termsandconditions.xml"
+    },
+    {
+        "merged": "D:\\Android\\AndroidStudioProjects\\PalleTech\\POC2\\Palle University Mobile\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_part_chronometer.xml",
+        "source": "D:\\Android\\AndroidStudioProjects\\PalleTech\\POC2\\Palle University Mobile\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "D:\\Android\\AndroidStudioProjects\\PalleTech\\POC2\\Palle University Mobile\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_material.xml",
+        "source": "D:\\Android\\AndroidStudioProjects\\PalleTech\\POC2\\Palle University Mobile\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_alert_dialog_material.xml"
+    },
+    {
+        "merged": "D:\\Android\\AndroidStudioProjects\\PalleTech\\POC2\\Palle University Mobile\\build\\intermediates\\res\\merged\\debug\\layout\\notification_media_action.xml",
+        "source": "D:\\Android\\AndroidStudioProjects\\PalleTech\\POC2\\Palle University Mobile\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\notification_media_action.xml"
+    },
+    {
+        "merged": "D:\\Android\\AndroidStudioProjects\\PalleTech\\POC2\\Palle University Mobile\\build\\intermediates\\res\\merged\\debug\\layout\\abc_dialog_title_material.xml",
+        "source": "D:\\Android\\AndroidStudioProjects\\PalleTech\\POC2\\Palle University Mobile\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_dialog_title_material.xml"
+    },
+    {
+        "merged": "D:\\Android\\AndroidStudioProjects\\PalleTech\\POC2\\Palle University Mobile\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_title_item.xml",
+        "source": "D:\\Android\\AndroidStudioProjects\\PalleTech\\POC2\\Palle University Mobile\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_action_bar_title_item.xml"
+    },
+    {
+        "merged": "D:\\Android\\AndroidStudioProjects\\PalleTech\\POC2\\Palle University Mobile\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_layout.xml",
+        "source": "D:\\Android\\AndroidStudioProjects\\PalleTech\\POC2\\Palle University Mobile\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_action_menu_layout.xml"
+    },
+    {
+        "merged": "D:\\Android\\AndroidStudioProjects\\PalleTech\\POC2\\Palle University Mobile\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_part_time.xml",
+        "source": "D:\\Android\\AndroidStudioProjects\\PalleTech\\POC2\\Palle University Mobile\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\notification_template_part_time.xml"
+    },
+    {
+        "merged": "D:\\Android\\AndroidStudioProjects\\PalleTech\\POC2\\Palle University Mobile\\build\\intermediates\\res\\merged\\debug\\layout\\course_details.xml",
+        "source": "D:\\Android\\AndroidStudioProjects\\PalleTech\\POC2\\Palle University Mobile\\src\\main\\res\\layout\\course_details.xml"
+    },
+    {
+        "merged": "D:\\Android\\AndroidStudioProjects\\PalleTech\\POC2\\Palle University Mobile\\build\\intermediates\\res\\merged\\debug\\layout\\demo_video_pager_row.xml",
+        "source": "D:\\Android\\AndroidStudioProjects\\PalleTech\\POC2\\Palle University Mobile\\src\\main\\res\\layout\\demo_video_pager_row.xml"
+    },
+    {
+        "merged": "D:\\Android\\AndroidStudioProjects\\PalleTech\\POC2\\Palle University Mobile\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_snackbar.xml",
+        "source": "D:\\Android\\AndroidStudioProjects\\PalleTech\\POC2\\Palle University Mobile\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.1.1\\res\\layout\\design_layout_snackbar.xml"
+    },
+    {
+        "merged": "D:\\Android\\AndroidStudioProjects\\PalleTech\\POC2\\Palle University Mobile\\build\\intermediates\\res\\merged\\debug\\layout\\frag2.xml",
+        "source": "D:\\Android\\AndroidStudioProjects\\PalleTech\\POC2\\Palle University Mobile\\src\\main\\res\\layout\\frag2.xml"
+    },
+    {
+        "merged": "D:\\Android\\AndroidStudioProjects\\PalleTech\\POC2\\Palle University Mobile\\build\\intermediates\\res\\merged\\debug\\layout\\purchased_take_test_in_progress.xml",
+        "source": "D:\\Android\\AndroidStudioProjects\\PalleTech\\POC2\\Palle University Mobile\\src\\main\\res\\layout\\purchased_take_test_in_progress.xml"
+    },
+    {
+        "merged": "D:\\Android\\AndroidStudioProjects\\PalleTech\\POC2\\Palle University Mobile\\build\\intermediates\\res\\merged\\debug\\layout\\video_over_dialog_new.xml",
+        "source": "D:\\Android\\AndroidStudioProjects\\PalleTech\\POC2\\Palle University Mobile\\src\\main\\res\\layout\\video_over_dialog_new.xml"
+    },
+    {
+        "merged": "D:\\Android\\AndroidStudioProjects\\PalleTech\\POC2\\Palle University Mobile\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_icon.xml",
+        "source": "D:\\Android\\AndroidStudioProjects\\PalleTech\\POC2\\Palle University Mobile\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_list_menu_item_icon.xml"
+    },
+    {
+        "merged": "D:\\Android\\AndroidStudioProjects\\PalleTech\\POC2\\Palle University Mobile\\build\\intermediates\\res\\merged\\debug\\layout\\purchased_take_test_results.xml",
+        "source": "D:\\Android\\AndroidStudioProjects\\PalleTech\\POC2\\Palle University Mobile\\src\\main\\res\\layout\\purchased_take_test_results.xml"
+    },
+    {
+        "merged": "D:\\Android\\AndroidStudioProjects\\PalleTech\\POC2\\Palle University Mobile\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_dropdown_item_icons_2line.xml",
+        "source": "D:\\Android\\AndroidStudioProjects\\PalleTech\\POC2\\Palle University Mobile\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_search_dropdown_item_icons_2line.xml"
+    },
+    {
+        "merged": "D:\\Android\\AndroidStudioProjects\\PalleTech\\POC2\\Palle University Mobile\\build\\intermediates\\res\\merged\\debug\\layout\\frag1.xml",
+        "source": "D:\\Android\\AndroidStudioProjects\\PalleTech\\POC2\\Palle University Mobile\\src\\main\\res\\layout\\frag1.xml"
+    },
+    {
+        "merged": "D:\\Android\\AndroidStudioProjects\\PalleTech\\POC2\\Palle University Mobile\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_item_layout.xml",
+        "source": "D:\\Android\\AndroidStudioProjects\\PalleTech\\POC2\\Palle University Mobile\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_action_menu_item_layout.xml"
+    },
+    {
+        "merged": "D:\\Android\\AndroidStudioProjects\\PalleTech\\POC2\\Palle University Mobile\\build\\intermediates\\res\\merged\\debug\\layout\\youtube_player.xml",
+        "source": "D:\\Android\\AndroidStudioProjects\\PalleTech\\POC2\\Palle University Mobile\\src\\main\\res\\layout\\youtube_player.xml"
+    },
+    {
+        "merged": "D:\\Android\\AndroidStudioProjects\\PalleTech\\POC2\\Palle University Mobile\\build\\intermediates\\res\\merged\\debug\\layout\\video_over_dialog.xml",
+        "source": "D:\\Android\\AndroidStudioProjects\\PalleTech\\POC2\\Palle University Mobile\\src\\main\\res\\layout\\video_over_dialog.xml"
+    },
+    {
+        "merged": "D:\\Android\\AndroidStudioProjects\\PalleTech\\POC2\\Palle University Mobile\\build\\intermediates\\res\\merged\\debug\\layout\\activity_contact_us.xml",
+        "source": "D:\\Android\\AndroidStudioProjects\\PalleTech\\POC2\\Palle University Mobile\\src\\main\\res\\layout\\activity_contact_us.xml"
+    },
+    {
+        "merged": "D:\\Android\\AndroidStudioProjects\\PalleTech\\POC2\\Palle University Mobile\\build\\intermediates\\res\\merged\\debug\\layout\\home.xml",
+        "source": "D:\\Android\\AndroidStudioProjects\\PalleTech\\POC2\\Palle University Mobile\\src\\main\\res\\layout\\home.xml"
+    },
+    {
+        "merged": "D:\\Android\\AndroidStudioProjects\\PalleTech\\POC2\\Palle University Mobile\\build\\intermediates\\res\\merged\\debug\\layout\\support_simple_spinner_dropdown_item.xml",
+        "source": "D:\\Android\\AndroidStudioProjects\\PalleTech\\POC2\\Palle University Mobile\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\support_simple_spinner_dropdown_item.xml"
+    },
+    {
+        "merged": "D:\\Android\\AndroidStudioProjects\\PalleTech\\POC2\\Palle University Mobile\\build\\intermediates\\res\\merged\\debug\\layout\\privacypolicy.xml",
+        "source": "D:\\Android\\AndroidStudioProjects\\PalleTech\\POC2\\Palle University Mobile\\src\\main\\res\\layout\\privacypolicy.xml"
+    },
+    {
+        "merged": "D:\\Android\\AndroidStudioProjects\\PalleTech\\POC2\\Palle University Mobile\\build\\intermediates\\res\\merged\\debug\\layout\\courses_row.xml",
+        "source": "D:\\Android\\AndroidStudioProjects\\PalleTech\\POC2\\Palle University Mobile\\src\\main\\res\\layout\\courses_row.xml"
+    },
+    {
+        "merged": "D:\\Android\\AndroidStudioProjects\\PalleTech\\POC2\\Palle University Mobile\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_close_item_material.xml",
+        "source": "D:\\Android\\AndroidStudioProjects\\PalleTech\\POC2\\Palle University Mobile\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_action_mode_close_item_material.xml"
+    },
+    {
+        "merged": "D:\\Android\\AndroidStudioProjects\\PalleTech\\POC2\\Palle University Mobile\\build\\intermediates\\res\\merged\\debug\\layout\\activity_login.xml",
+        "source": "D:\\Android\\AndroidStudioProjects\\PalleTech\\POC2\\Palle University Mobile\\src\\main\\res\\layout\\activity_login.xml"
+    },
+    {
+        "merged": "D:\\Android\\AndroidStudioProjects\\PalleTech\\POC2\\Palle University Mobile\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_toolbar.xml",
+        "source": "D:\\Android\\AndroidStudioProjects\\PalleTech\\POC2\\Palle University Mobile\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_screen_toolbar.xml"
+    },
+    {
+        "merged": "D:\\Android\\AndroidStudioProjects\\PalleTech\\POC2\\Palle University Mobile\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item_subheader.xml",
+        "source": "D:\\Android\\AndroidStudioProjects\\PalleTech\\POC2\\Palle University Mobile\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.1.1\\res\\layout\\design_navigation_item_subheader.xml"
+    },
+    {
+        "merged": "D:\\Android\\AndroidStudioProjects\\PalleTech\\POC2\\Palle University Mobile\\build\\intermediates\\res\\merged\\debug\\layout\\paypal_activity.xml",
+        "source": "D:\\Android\\AndroidStudioProjects\\PalleTech\\POC2\\Palle University Mobile\\src\\main\\res\\layout\\paypal_activity.xml"
+    },
+    {
+        "merged": "D:\\Android\\AndroidStudioProjects\\PalleTech\\POC2\\Palle University Mobile\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item.xml",
+        "source": "D:\\Android\\AndroidStudioProjects\\PalleTech\\POC2\\Palle University Mobile\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.1.1\\res\\layout\\design_navigation_item.xml"
+    },
+    {
+        "merged": "D:\\Android\\AndroidStudioProjects\\PalleTech\\POC2\\Palle University Mobile\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_menu.xml",
+        "source": "D:\\Android\\AndroidStudioProjects\\PalleTech\\POC2\\Palle University Mobile\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.1.1\\res\\layout\\design_navigation_menu.xml"
+    },
+    {
+        "merged": "D:\\Android\\AndroidStudioProjects\\PalleTech\\POC2\\Palle University Mobile\\build\\intermediates\\res\\merged\\debug\\layout\\abc_expanded_menu_layout.xml",
+        "source": "D:\\Android\\AndroidStudioProjects\\PalleTech\\POC2\\Palle University Mobile\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_expanded_menu_layout.xml"
+    },
+    {
+        "merged": "D:\\Android\\AndroidStudioProjects\\PalleTech\\POC2\\Palle University Mobile\\build\\intermediates\\res\\merged\\debug\\layout\\order_row.xml",
+        "source": "D:\\Android\\AndroidStudioProjects\\PalleTech\\POC2\\Palle University Mobile\\src\\main\\res\\layout\\order_row.xml"
+    },
+    {
+        "merged": "D:\\Android\\AndroidStudioProjects\\PalleTech\\POC2\\Palle University Mobile\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_button_bar_material.xml",
+        "source": "D:\\Android\\AndroidStudioProjects\\PalleTech\\POC2\\Palle University Mobile\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_alert_dialog_button_bar_material.xml"
+    },
+    {
+        "merged": "D:\\Android\\AndroidStudioProjects\\PalleTech\\POC2\\Palle University Mobile\\build\\intermediates\\res\\merged\\debug\\layout\\activity_palle_web.xml",
+        "source": "D:\\Android\\AndroidStudioProjects\\PalleTech\\POC2\\Palle University Mobile\\src\\main\\res\\layout\\activity_palle_web.xml"
+    },
+    {
+        "merged": "D:\\Android\\AndroidStudioProjects\\PalleTech\\POC2\\Palle University Mobile\\build\\intermediates\\res\\merged\\debug\\layout\\notification_media_cancel_action.xml",
+        "source": "D:\\Android\\AndroidStudioProjects\\PalleTech\\POC2\\Palle University Mobile\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\notification_media_cancel_action.xml"
+    },
+    {
+        "merged": "D:\\Android\\AndroidStudioProjects\\PalleTech\\POC2\\Palle University Mobile\\build\\intermediates\\res\\merged\\debug\\layout\\purchased_take_test_welcome.xml",
+        "source": "D:\\Android\\AndroidStudioProjects\\PalleTech\\POC2\\Palle University Mobile\\src\\main\\res\\layout\\purchased_take_test_welcome.xml"
+    },
+    {
+        "merged": "D:\\Android\\AndroidStudioProjects\\PalleTech\\POC2\\Palle University Mobile\\build\\intermediates\\res\\merged\\debug\\layout\\purchased_tests_pager_row.xml",
+        "source": "D:\\Android\\AndroidStudioProjects\\PalleTech\\POC2\\Palle University Mobile\\src\\main\\res\\layout\\purchased_tests_pager_row.xml"
+    },
+    {
+        "merged": "D:\\Android\\AndroidStudioProjects\\PalleTech\\POC2\\Palle University Mobile\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "D:\\Android\\AndroidStudioProjects\\PalleTech\\POC2\\Palle University Mobile\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "D:\\Android\\AndroidStudioProjects\\PalleTech\\POC2\\Palle University Mobile\\build\\intermediates\\res\\merged\\debug\\layout\\nav_header_main.xml",
+        "source": "D:\\Android\\AndroidStudioProjects\\PalleTech\\POC2\\Palle University Mobile\\src\\main\\res\\layout\\nav_header_main.xml"
+    },
+    {
+        "merged": "D:\\Android\\AndroidStudioProjects\\PalleTech\\POC2\\Palle University Mobile\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_ccavenue_result.xml",
+        "source": "D:\\Android\\AndroidStudioProjects\\PalleTech\\POC2\\Palle University Mobile\\src\\main\\res\\layout\\fragment_ccavenue_result.xml"
+    },
+    {
+        "merged": "D:\\Android\\AndroidStudioProjects\\PalleTech\\POC2\\Palle University Mobile\\build\\intermediates\\res\\merged\\debug\\layout\\po_order_email.xml",
+        "source": "D:\\Android\\AndroidStudioProjects\\PalleTech\\POC2\\Palle University Mobile\\src\\main\\res\\layout\\po_order_email.xml"
+    },
+    {
+        "merged": "D:\\Android\\AndroidStudioProjects\\PalleTech\\POC2\\Palle University Mobile\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_media.xml",
+        "source": "D:\\Android\\AndroidStudioProjects\\PalleTech\\POC2\\Palle University Mobile\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\notification_template_media.xml"
+    },
+    {
+        "merged": "D:\\Android\\AndroidStudioProjects\\PalleTech\\POC2\\Palle University Mobile\\build\\intermediates\\res\\merged\\debug\\layout\\purchased_take_test_results_row.xml",
+        "source": "D:\\Android\\AndroidStudioProjects\\PalleTech\\POC2\\Palle University Mobile\\src\\main\\res\\layout\\purchased_take_test_results_row.xml"
+    },
+    {
+        "merged": "D:\\Android\\AndroidStudioProjects\\PalleTech\\POC2\\Palle University Mobile\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item_separator.xml",
+        "source": "D:\\Android\\AndroidStudioProjects\\PalleTech\\POC2\\Palle University Mobile\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.1.1\\res\\layout\\design_navigation_item_separator.xml"
+    },
+    {
+        "merged": "D:\\Android\\AndroidStudioProjects\\PalleTech\\POC2\\Palle University Mobile\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_singlechoice_material.xml",
+        "source": "D:\\Android\\AndroidStudioProjects\\PalleTech\\POC2\\Palle University Mobile\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\select_dialog_singlechoice_material.xml"
+    },
+    {
+        "merged": "D:\\Android\\AndroidStudioProjects\\PalleTech\\POC2\\Palle University Mobile\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_menu_item.xml",
+        "source": "D:\\Android\\AndroidStudioProjects\\PalleTech\\POC2\\Palle University Mobile\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.1.1\\res\\layout\\design_navigation_menu_item.xml"
+    },
+    {
+        "merged": "D:\\Android\\AndroidStudioProjects\\PalleTech\\POC2\\Palle University Mobile\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_big_media.xml",
+        "source": "D:\\Android\\AndroidStudioProjects\\PalleTech\\POC2\\Palle University Mobile\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\notification_template_big_media.xml"
+    },
+    {
+        "merged": "D:\\Android\\AndroidStudioProjects\\PalleTech\\POC2\\Palle University Mobile\\build\\intermediates\\res\\merged\\debug\\layout\\sample.xml",
+        "source": "D:\\Android\\AndroidStudioProjects\\PalleTech\\POC2\\Palle University Mobile\\src\\main\\res\\layout\\sample.xml"
+    },
+    {
+        "merged": "D:\\Android\\AndroidStudioProjects\\PalleTech\\POC2\\Palle University Mobile\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_snackbar_include.xml",
+        "source": "D:\\Android\\AndroidStudioProjects\\PalleTech\\POC2\\Palle University Mobile\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.1.1\\res\\layout\\design_layout_snackbar_include.xml"
+    },
+    {
+        "merged": "D:\\Android\\AndroidStudioProjects\\PalleTech\\POC2\\Palle University Mobile\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_salient_features.xml",
+        "source": "D:\\Android\\AndroidStudioProjects\\PalleTech\\POC2\\Palle University Mobile\\src\\main\\res\\layout\\fragment_salient_features.xml"
+    },
+    {
+        "merged": "D:\\Android\\AndroidStudioProjects\\PalleTech\\POC2\\Palle University Mobile\\build\\intermediates\\res\\merged\\debug\\layout\\childrow.xml",
+        "source": "D:\\Android\\AndroidStudioProjects\\PalleTech\\POC2\\Palle University Mobile\\src\\main\\res\\layout\\childrow.xml"
+    },
+    {
+        "merged": "D:\\Android\\AndroidStudioProjects\\PalleTech\\POC2\\Palle University Mobile\\build\\intermediates\\res\\merged\\debug\\layout\\activity_initial_screen.xml",
+        "source": "D:\\Android\\AndroidStudioProjects\\PalleTech\\POC2\\Palle University Mobile\\src\\main\\res\\layout\\activity_initial_screen.xml"
+    },
+    {
+        "merged": "D:\\Android\\AndroidStudioProjects\\PalleTech\\POC2\\Palle University Mobile\\build\\intermediates\\res\\merged\\debug\\layout\\drawer_list_item.xml",
+        "source": "D:\\Android\\AndroidStudioProjects\\PalleTech\\POC2\\Palle University Mobile\\src\\main\\res\\layout\\drawer_list_item.xml"
+    },
+    {
+        "merged": "D:\\Android\\AndroidStudioProjects\\PalleTech\\POC2\\Palle University Mobile\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_big_media_narrow.xml",
+        "source": "D:\\Android\\AndroidStudioProjects\\PalleTech\\POC2\\Palle University Mobile\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\notification_template_big_media_narrow.xml"
+    },
+    {
+        "merged": "D:\\Android\\AndroidStudioProjects\\PalleTech\\POC2\\Palle University Mobile\\build\\intermediates\\res\\merged\\debug\\layout\\purchased_tests_pager.xml",
+        "source": "D:\\Android\\AndroidStudioProjects\\PalleTech\\POC2\\Palle University Mobile\\src\\main\\res\\layout\\purchased_tests_pager.xml"
+    },
+    {
+        "merged": "D:\\Android\\AndroidStudioProjects\\PalleTech\\POC2\\Palle University Mobile\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple_overlay_action_mode.xml",
+        "source": "D:\\Android\\AndroidStudioProjects\\PalleTech\\POC2\\Palle University Mobile\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_screen_simple_overlay_action_mode.xml"
+    },
+    {
+        "merged": "D:\\Android\\AndroidStudioProjects\\PalleTech\\POC2\\Palle University Mobile\\build\\intermediates\\res\\merged\\debug\\layout\\purchased_course_content_pager.xml",
+        "source": "D:\\Android\\AndroidStudioProjects\\PalleTech\\POC2\\Palle University Mobile\\src\\main\\res\\layout\\purchased_course_content_pager.xml"
+    },
+    {
+        "merged": "D:\\Android\\AndroidStudioProjects\\PalleTech\\POC2\\Palle University Mobile\\build\\intermediates\\res\\merged\\debug\\layout\\activity_signup.xml",
+        "source": "D:\\Android\\AndroidStudioProjects\\PalleTech\\POC2\\Palle University Mobile\\src\\main\\res\\layout\\activity_signup.xml"
+    },
+    {
+        "merged": "D:\\Android\\AndroidStudioProjects\\PalleTech\\POC2\\Palle University Mobile\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_tab_icon.xml",
+        "source": "D:\\Android\\AndroidStudioProjects\\PalleTech\\POC2\\Palle University Mobile\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.1.1\\res\\layout\\design_layout_tab_icon.xml"
+    },
+    {
+        "merged": "D:\\Android\\AndroidStudioProjects\\PalleTech\\POC2\\Palle University Mobile\\build\\intermediates\\res\\merged\\debug\\layout\\purchased_video_pager.xml",
+        "source": "D:\\Android\\AndroidStudioProjects\\PalleTech\\POC2\\Palle University Mobile\\src\\main\\res\\layout\\purchased_video_pager.xml"
+    },
+    {
+        "merged": "D:\\Android\\AndroidStudioProjects\\PalleTech\\POC2\\Palle University Mobile\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_tab_text.xml",
+        "source": "D:\\Android\\AndroidStudioProjects\\PalleTech\\POC2\\Palle University Mobile\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.1.1\\res\\layout\\design_layout_tab_text.xml"
+    },
+    {
+        "merged": "D:\\Android\\AndroidStudioProjects\\PalleTech\\POC2\\Palle University Mobile\\build\\intermediates\\res\\merged\\debug\\layout\\course_purchase.xml",
+        "source": "D:\\Android\\AndroidStudioProjects\\PalleTech\\POC2\\Palle University Mobile\\src\\main\\res\\layout\\course_purchase.xml"
+    },
+    {
+        "merged": "D:\\Android\\AndroidStudioProjects\\PalleTech\\POC2\\Palle University Mobile\\build\\intermediates\\res\\merged\\debug\\layout\\video_play.xml",
+        "source": "D:\\Android\\AndroidStudioProjects\\PalleTech\\POC2\\Palle University Mobile\\src\\main\\res\\layout\\video_play.xml"
+    },
+    {
+        "merged": "D:\\Android\\AndroidStudioProjects\\PalleTech\\POC2\\Palle University Mobile\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_contact_us.xml",
+        "source": "D:\\Android\\AndroidStudioProjects\\PalleTech\\POC2\\Palle University Mobile\\src\\main\\res\\layout\\fragment_contact_us.xml"
+    },
+    {
+        "merged": "D:\\Android\\AndroidStudioProjects\\PalleTech\\POC2\\Palle University Mobile\\build\\intermediates\\res\\merged\\debug\\layout\\parentrow.xml",
+        "source": "D:\\Android\\AndroidStudioProjects\\PalleTech\\POC2\\Palle University Mobile\\src\\main\\res\\layout\\parentrow.xml"
+    },
+    {
+        "merged": "D:\\Android\\AndroidStudioProjects\\PalleTech\\POC2\\Palle University Mobile\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_content_include.xml",
+        "source": "D:\\Android\\AndroidStudioProjects\\PalleTech\\POC2\\Palle University Mobile\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_screen_content_include.xml"
+    },
+    {
+        "merged": "D:\\Android\\AndroidStudioProjects\\PalleTech\\POC2\\Palle University Mobile\\build\\intermediates\\res\\merged\\debug\\layout\\abc_popup_menu_item_layout.xml",
+        "source": "D:\\Android\\AndroidStudioProjects\\PalleTech\\POC2\\Palle University Mobile\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_popup_menu_item_layout.xml"
+    },
+    {
+        "merged": "D:\\Android\\AndroidStudioProjects\\PalleTech\\POC2\\Palle University Mobile\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_up_container.xml",
+        "source": "D:\\Android\\AndroidStudioProjects\\PalleTech\\POC2\\Palle University Mobile\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_action_bar_up_container.xml"
+    },
+    {
+        "merged": "D:\\Android\\AndroidStudioProjects\\PalleTech\\POC2\\Palle University Mobile\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_refer_and_earn.xml",
+        "source": "D:\\Android\\AndroidStudioProjects\\PalleTech\\POC2\\Palle University Mobile\\src\\main\\res\\layout\\fragment_refer_and_earn.xml"
+    },
+    {
+        "merged": "D:\\Android\\AndroidStudioProjects\\PalleTech\\POC2\\Palle University Mobile\\build\\intermediates\\res\\merged\\debug\\layout\\abc_select_dialog_material.xml",
+        "source": "D:\\Android\\AndroidStudioProjects\\PalleTech\\POC2\\Palle University Mobile\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_select_dialog_material.xml"
+    },
+    {
+        "merged": "D:\\Android\\AndroidStudioProjects\\PalleTech\\POC2\\Palle University Mobile\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_home.xml",
+        "source": "D:\\Android\\AndroidStudioProjects\\PalleTech\\POC2\\Palle University Mobile\\src\\main\\res\\layout\\fragment_home.xml"
+    },
+    {
+        "merged": "D:\\Android\\AndroidStudioProjects\\PalleTech\\POC2\\Palle University Mobile\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_multichoice_material.xml",
+        "source": "D:\\Android\\AndroidStudioProjects\\PalleTech\\POC2\\Palle University Mobile\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\select_dialog_multichoice_material.xml"
+    },
+    {
+        "merged": "D:\\Android\\AndroidStudioProjects\\PalleTech\\POC2\\Palle University Mobile\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_bar.xml",
+        "source": "D:\\Android\\AndroidStudioProjects\\PalleTech\\POC2\\Palle University Mobile\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_action_mode_bar.xml"
+    },
+    {
+        "merged": "D:\\Android\\AndroidStudioProjects\\PalleTech\\POC2\\Palle University Mobile\\build\\intermediates\\res\\merged\\debug\\layout\\purchased_course_details.xml",
+        "source": "D:\\Android\\AndroidStudioProjects\\PalleTech\\POC2\\Palle University Mobile\\src\\main\\res\\layout\\purchased_course_details.xml"
+    },
+    {
+        "merged": "D:\\Android\\AndroidStudioProjects\\PalleTech\\POC2\\Palle University Mobile\\build\\intermediates\\res\\merged\\debug\\layout\\design_menu_item_action_area.xml",
+        "source": "D:\\Android\\AndroidStudioProjects\\PalleTech\\POC2\\Palle University Mobile\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.1.1\\res\\layout\\design_menu_item_action_area.xml"
+    },
+    {
+        "merged": "D:\\Android\\AndroidStudioProjects\\PalleTech\\POC2\\Palle University Mobile\\build\\intermediates\\res\\merged\\debug\\layout\\activity_status.xml",
+        "source": "D:\\Android\\AndroidStudioProjects\\PalleTech\\POC2\\Palle University Mobile\\src\\main\\res\\layout\\activity_status.xml"
+    },
+    {
+        "merged": "D:\\Android\\AndroidStudioProjects\\PalleTech\\POC2\\Palle University Mobile\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_checkbox.xml",
+        "source": "D:\\Android\\AndroidStudioProjects\\PalleTech\\POC2\\Palle University Mobile\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_list_menu_item_checkbox.xml"
+    },
+    {
+        "merged": "D:\\Android\\AndroidStudioProjects\\PalleTech\\POC2\\Palle University Mobile\\build\\intermediates\\res\\merged\\debug\\layout\\dialog.xml",
+        "source": "D:\\Android\\AndroidStudioProjects\\PalleTech\\POC2\\Palle University Mobile\\src\\main\\res\\layout\\dialog.xml"
+    },
+    {
+        "merged": "D:\\Android\\AndroidStudioProjects\\PalleTech\\POC2\\Palle University Mobile\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_my_orders.xml",
+        "source": "D:\\Android\\AndroidStudioProjects\\PalleTech\\POC2\\Palle University Mobile\\src\\main\\res\\layout\\fragment_my_orders.xml"
+    },
+    {
+        "merged": "D:\\Android\\AndroidStudioProjects\\PalleTech\\POC2\\Palle University Mobile\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item_header.xml",
+        "source": "D:\\Android\\AndroidStudioProjects\\PalleTech\\POC2\\Palle University Mobile\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.1.1\\res\\layout\\design_navigation_item_header.xml"
+    },
+    {
+        "merged": "D:\\Android\\AndroidStudioProjects\\PalleTech\\POC2\\Palle University Mobile\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view_list_item.xml",
+        "source": "D:\\Android\\AndroidStudioProjects\\PalleTech\\POC2\\Palle University Mobile\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_activity_chooser_view_list_item.xml"
+    },
+    {
+        "merged": "D:\\Android\\AndroidStudioProjects\\PalleTech\\POC2\\Palle University Mobile\\build\\intermediates\\res\\merged\\debug\\layout\\demo_video_pager.xml",
+        "source": "D:\\Android\\AndroidStudioProjects\\PalleTech\\POC2\\Palle University Mobile\\src\\main\\res\\layout\\demo_video_pager.xml"
+    },
+    {
+        "merged": "D:\\Android\\AndroidStudioProjects\\PalleTech\\POC2\\Palle University Mobile\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_lines.xml",
+        "source": "D:\\Android\\AndroidStudioProjects\\PalleTech\\POC2\\Palle University Mobile\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\notification_template_lines.xml"
+    },
+    {
+        "merged": "D:\\Android\\AndroidStudioProjects\\PalleTech\\POC2\\Palle University Mobile\\build\\intermediates\\res\\merged\\debug\\layout\\purchased_video_pager_row.xml",
+        "source": "D:\\Android\\AndroidStudioProjects\\PalleTech\\POC2\\Palle University Mobile\\src\\main\\res\\layout\\purchased_video_pager_row.xml"
+    },
+    {
+        "merged": "D:\\Android\\AndroidStudioProjects\\PalleTech\\POC2\\Palle University Mobile\\build\\intermediates\\res\\merged\\debug\\layout\\activity_webview.xml",
+        "source": "D:\\Android\\AndroidStudioProjects\\PalleTech\\POC2\\Palle University Mobile\\src\\main\\res\\layout\\activity_webview.xml"
+    },
+    {
+        "merged": "D:\\Android\\AndroidStudioProjects\\PalleTech\\POC2\\Palle University Mobile\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_radio.xml",
+        "source": "D:\\Android\\AndroidStudioProjects\\PalleTech\\POC2\\Palle University Mobile\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_list_menu_item_radio.xml"
+    },
+    {
+        "merged": "D:\\Android\\AndroidStudioProjects\\PalleTech\\POC2\\Palle University Mobile\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_layout.xml",
+        "source": "D:\\Android\\AndroidStudioProjects\\PalleTech\\POC2\\Palle University Mobile\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_list_menu_item_layout.xml"
+    },
+    {
+        "merged": "D:\\Android\\AndroidStudioProjects\\PalleTech\\POC2\\Palle University Mobile\\build\\intermediates\\res\\merged\\debug\\layout\\purchased_take_test.xml",
+        "source": "D:\\Android\\AndroidStudioProjects\\PalleTech\\POC2\\Palle University Mobile\\src\\main\\res\\layout\\purchased_take_test.xml"
+    },
+    {
+        "merged": "D:\\Android\\AndroidStudioProjects\\PalleTech\\POC2\\Palle University Mobile\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_view.xml",
+        "source": "D:\\Android\\AndroidStudioProjects\\PalleTech\\POC2\\Palle University Mobile\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_search_view.xml"
+    }
+]

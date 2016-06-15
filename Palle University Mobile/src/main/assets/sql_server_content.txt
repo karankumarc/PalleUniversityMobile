@@ -1,0 +1,69 @@
+<h2>About the course :</h2>
+   This course designed for the beginners who wants to start their career in sql server programming.
+   This course will provide in detailed explanation for almost all the concepts which includes
+   Extensive coverage of RDBMS concepts. This course is the basic requirement for understanding 
+   sql server data base administration and the MS BI tools like SSRS, SSIS and SSRS.<br>
+
+<h3>Course Key features :</h3>
+  
+   1. All concepts are explained on the board with the help of diagrams.<br>
+   2. Explained all the concepts in a simplified fashion.<br>
+   3. Each topic having exercises/Assignments. <br>
+   4. In-depth subject understanding and hence you will get expertise on C# language.<br>
+   5. Each topic having carefully selected question for testing the subject knowledge.
+
+<h3>Course content :</h3>
+   This course is divided into 14 chapters. <br>
+   <b style="color:green">SQLServer introduction and Data types :</b>
+     This chapter covers the basics of SQLServer, Use of Sql server management studio 
+	 and the different data types supported in t-sql language.<br>
+  <b style="color:green">Constraints :</b>
+  This chapter covers different types of constraints present in sql server which includes
+  not null, default, check, primary, unique constraints along with normalization and foreign key constraints.<br>
+  <b style="color:green">clauses in select statement :</b>
+  This chapter covers different clauses used in select statements like order by, distinct, top, where and like clause.<br>
+  <b style="color:green">DML statements, Schema and Identity columns :</b>
+  This chapter covers generic insert, update and delete statements along with drop and truncate statements.
+  This chapter also explains importance of schema and identity columns.
+  <b style="color:green">Variables and conditional statements :</b>
+  This chapter explains variable creation and conditional statements.<br>
+  <b style="color:green">Built in functions :</b>
+  This chapter explains different types of built in functions which includes String functions,
+  aggregate functions, date time functions, cast and convert functions.<br>
+  <b style="color:green">Group by and having clause :</b>
+  This chapter explains group by and having clauses.<br>
+  <b style="color:green">Subqueries :</b>
+  This chapter explains subqueries and correlated subqueries.<br>
+  <b style="color:green">Joins :</b>
+  This chapter explains different types of joins like inner joins, outer joins, Cross joins and self joins.<br>
+  <b style="color:green">Stored procedures :</b>
+  In this chapter you will understand importance of a stored procedure, different ways of returning data from stored procedures
+  along with advantages of stored procedure.<br>
+   <b style="color:green">User defined functions :</b>
+  In this chapter you will understand the importance of an user defined function and different types of user defined 
+  functions along with the differences between user defined functions and stored procedures.<br>
+  <b style="color:green">Views :</b>
+  In this chapter you will understand the different types of views and the importance of views.<br>
+  <b style="color:green">Indexers :</b>
+  In this chapter you will understand the different types of Indexers and the importance of Indexers.<br>
+  <b style="color:green">Triggers :</b>
+  In this chapter you will understand the different types of Triggers and the importance of Triggers.<br>
+
+<h3> Pre Requisites :</h3>
+
+    1. Prior programming language basics are not required. <br>
+	2. Trainer assumed that participants don't have prior programming knowledge
+	  and starts the course coverage from very basics.<br>
+<h3> who should go for this course? </h3>
+
+   1. Any student who completed their graduation in any discipline.<br>
+   2. Any working professional who is already working for any IT company. <br>
+   3. Any school student who is having sql or pl/sql or any dbms or rdbms in their academics. <br>
+
+<h3> Why Palle University? </h3>
+
+1. The trainers in Palle University are well experienced. <br>
+2. Average IT industry experience of our trainers is 10 years.<br>
+3. All the concepts are explained with traditional boards. <br>
+4. All concepts are explained with the help of diagrams.<br>
+5. Sequence of tests are included after each and every topic.

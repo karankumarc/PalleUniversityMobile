@@ -1,0 +1,100 @@
+<h2>About the course:</h2>
+
+ <h3>Course content:</h3>
+    <b>Introduction to Microsoft .NET</b>
+	
+	<b>C# prograom compilation</b>
+
+	<b>Data types</b>
+
+	<b>Classes,Objects and Methods</b>
+
+	<b>Debugging</b>
+
+	<b>Cobnditional statements and switch case</b>
+
+	<b>RAM architecture and Variable Types</b>
+
+	<b>Arrays</b>
+
+	<b>Strings</b>
+
+	<b>Constructors</b>
+
+	<b>OOPL Basics</b>
+
+	<b>Inheritence</b>
+
+	<b>Upcasting and DownCasting</b>
+
+	<b>Objects and Methods</b>
+
+	<b>base keyword</b>
+
+	<b>this keyword</b>
+
+	<b>Namespaces</b>
+
+	<b>Access modifiers</b>
+
+	<b>Overloading</b>
+
+	<b>Overriding</b>
+
+	<b>Static Members and Instance Members</b>
+
+	<b>Types of Classes</b>
+
+	<b>Interfaces</b>
+
+	<b>Properties and Indexers</b>
+
+	<b>Value Types and Reference Types</b>
+
+	<b>Structures</b>
+
+	<b>Constants and Read only variables</b>
+
+	<b>Enums</b>
+
+	<b>Ref and Out Keywords</b>
+
+	<b>var keyword</b>
+
+	<b>for each loop</b>
+
+	<b>Boxing Unboxing</b>
+
+	<b>is and as keywords</b>
+
+	<b>Exceptions</b>
+
+	<b>c# comments</b>
+
+	<b>named and optional arguments</b>
+
+<h3>Course Key features:</h3>
+  
+   1.All concepts are explianed on the board with the help of diagrams.
+   2.Explained all the concepts in a simplified fashion.
+   3.Each topic having exercies/Assignments.
+   4.Indepth subject understanding.
+   
+<h3> Pre Requisites:</h3>
+
+    1.Prior programming languge basics are not required.
+	2.Trainer assumed that people don't having prior programming knowledge
+	  and started the course coverage from very basics.
+<h3> who should go for this course?</h3>
+
+   1.Any indian student who completed their BE/Btech/MSC/BSC in any branch.
+   2.Any working professional who is already working for any IT company.
+   3.Any school student who is having C# language in their academics.
+
+<h3> Why Palle University?</h3>
+
+1.The trainers in Palle university are experienced people.
+2.Average IT industry experience of our trainers is 10 years.
+3.All the concepts are explained with traditional boards.
+4.All concepts are explained with the help of diagrams.
+5.Sequence of tests are included after each and every topic.

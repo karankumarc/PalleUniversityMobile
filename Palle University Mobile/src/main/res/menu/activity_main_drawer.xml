@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_home"
+            android:icon="@drawable/ic_home_black_24dp"
+            android:title="Home" />
+        <item
+            android:id="@+id/nav_my_courses"
+            android:icon="@drawable/ic_import_contacts_black_24dp"
+            android:title="My Courses" />
+        <item
+            android:id="@+id/nav_my_oders"
+            android:icon="@drawable/ic_local_grocery_store_black_24dp"
+            android:title="My Orders" />
+        <item
+            android:id="@+id/nav_ref_and_earn"
+            android:icon="@drawable/ic_monetization_on_black_24dp"
+            android:title="Refer and Earn" />
+    </group>
+
+    <item android:title="Communicate">
+        <menu>
+            <item
+                android:id="@+id/nav_send"
+                android:icon="@drawable/ic_menu_send"
+                android:title="Quick Enquiry" />
+        </menu>
+    </item>
+
+</menu>

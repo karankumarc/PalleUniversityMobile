@@ -1,0 +1,308 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+   android:outlineProvider="none"
+   android:background="@android:color/transparent"
+    android:orientation="vertical" >
+    <LinearLayout android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/my_shape6" 
+    android:orientation="vertical">
+    <LinearLayout android:layout_height="0dp"
+        android:orientation="vertical"
+        android:layout_width="match_parent"
+        android:layout_weight="1">
+
+        <TextView
+            android:id="@+id/textView1"
+            android:layout_width="wrap_content"
+            android:layout_height="0dp"
+            android:layout_marginLeft="10dp"
+            android:layout_weight="1"
+            android:text="Order Summary:"
+            android:textAppearance="?android:attr/textAppearanceLarge"
+            android:textSize="30sp" />
+
+        <LinearLayout android:layout_width="wrap_content"
+            android:layout_height="0dp"
+            android:background="@drawable/my_shape"
+            android:layout_marginLeft="10dp"
+            android:layout_marginTop="10dp"
+            android:layout_marginRight="10dp"
+            android:layout_marginBottom="10dp"
+            android:layout_weight="9"
+            android:orientation="vertical">
+            <LinearLayout
+                android:layout_weight="1"
+                android:layout_width="match_parent"
+                android:layout_height="0dp"
+                android:layout_marginLeft="5dp"
+                android:orientation="horizontal" >
+                <TextView android:id="@+id/title"
+                    android:layout_width="0dp"
+                    android:layout_weight="2"
+                    android:layout_height="match_parent"
+                    android:gravity="center_vertical"
+                    android:text="You are purchasing with "
+                    android:textColor="#000000"
+                    android:textStyle="bold"
+                    />
+                <ImageView
+                    android:id="@+id/sdCardImage"
+                    android:layout_width="0dp"
+                    android:layout_gravity="center"
+                    android:layout_height="wrap_content"
+                    android:layout_weight=".5"
+                    android:src="@drawable/ic_sd_card_black_24dp"/>
+                <ImageView
+                    android:id="@+id/penDriveImage"
+                    android:layout_width="0dp"
+                    android:layout_gravity="center"
+                    android:layout_height="wrap_content"
+                    android:paddingTop="2dp"
+                    android:layout_weight=".5"
+                    android:src="@drawable/pen_drive_black_small"/>
+
+            </LinearLayout>
+            <LinearLayout android:layout_width="wrap_content"
+                android:layout_height="0dp"
+                android:layout_weight="1"
+
+                android:orientation="horizontal">
+                <TextView
+            android:id="@+id/textView2"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:layout_margin="10dp"
+            android:textSize="18sp"
+            android:text="Course Name"
+            android:textAppearance="?android:attr/textAppearanceLarge" />
+                 <TextView
+            android:id="@+id/textView3"
+            android:layout_width="0dp"
+             android:layout_margin="10dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:text="Price in INR"
+            android:textSize="18sp"
+            android:textAppearance="?android:attr/textAppearanceLarge" />
+                  <TextView
+            android:id="@+id/textView4"
+            android:layout_width="0dp"
+             android:layout_margin="10dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:textSize="18sp"
+            android:text="Price in USD"
+            android:textAppearance="?android:attr/textAppearanceLarge" />
+            </LinearLayout>
+            <LinearLayout android:layout_height="0dp"
+                android:layout_width="match_parent"
+                android:layout_weight="1"
+                
+               
+                android:background="@drawable/my_shape2"
+                
+                android:orientation="horizontal">
+
+                 <TextView
+                     android:id="@+id/textView5"
+                     android:layout_width="0dp"
+                     android:layout_weight="1"
+                     android:layout_height="wrap_content"
+                     android:layout_margin="10dp"
+                     android:gravity="center"
+                     android:text="C# for\nFreshers"
+                     android:textColor="#000000"/>
+                  <LinearLayout  android:layout_width="0dp"
+                      android:layout_height="wrap_content"
+                      android:layout_weight="1"
+                      android:orientation="vertical" >
+                  <TextView
+                      android:id="@+id/textView6"
+                      android:layout_width="wrap_content"
+                      android:layout_height="0dp"
+                      android:layout_margin="10dp"
+                      android:layout_weight="1"
+                      android:text="$9999"
+                      android:textAppearance="?android:attr/textAppearanceLarge"
+                      android:textColor="#f00"
+                      android:textSize="18sp" />
+
+                    <TextView
+                        android:id="@+id/textView16"
+                        android:layout_width="wrap_content"
+                        android:layout_height="0dp"
+                        android:layout_margin="10dp"
+                        android:layout_weight="1"
+                        android:text="\u20B9 7991"
+                        android:textAppearance="?android:attr/textAppearanceLarge"
+                        android:textColor="#000"
+                        android:textSize="18sp" />
+                   </LinearLayout>
+                    <LinearLayout  android:layout_width="0dp"
+                      android:layout_height="wrap_content"
+                      android:layout_weight="1"
+                      android:orientation="vertical" >
+                   <TextView
+                       android:id="@+id/textView7"
+                       android:layout_width="wrap_content"
+                       android:layout_height="0dp"
+                       android:layout_margin="10dp"
+                       android:layout_weight="1"
+                       android:text="$444"
+                       android:textAppearance="?android:attr/textAppearanceLarge"
+                       android:textColor="#f00"
+                       android:textSize="18sp" />
+
+                     <TextView
+                         android:id="@+id/textView17"
+                         android:layout_width="wrap_content"
+                         android:layout_height="0dp"
+                         android:layout_margin="10dp"
+                         android:layout_weight="1"
+                         android:text="$ 150"
+                         android:textAppearance="?android:attr/textAppearanceLarge"
+                         android:textColor="#000"
+                         android:textSize="18sp" />
+                     </LinearLayout>
+            </LinearLayout>
+            <LinearLayout android:layout_height="0dp"
+                android:layout_width="match_parent"
+                 
+                android:background="@drawable/my_shape4"
+                android:layout_weight="5"
+                android:orientation="vertical"
+                >
+
+                <TextView
+                    android:id="@+id/textView8"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginLeft="10dp"
+                    android:layout_marginRight="10dp"
+                    android:layout_weight="1.06"
+                    android:gravity="right"
+                    android:text="For indian users it is recomended to"
+                    android:textAppearance="?android:attr/textAppearanceLarge"
+                    android:textSize="18sp" />
+
+                  <Button
+                      android:id="@+id/button1"
+                      android:layout_width="wrap_content"
+                      android:layout_height="wrap_content"
+                      android:layout_gravity="right"
+                      android:layout_marginRight="10dp"
+                      android:layout_weight="1.00"
+                      android:background="@drawable/button_shape"
+                      android:padding="20dp"
+                      android:text="Pay with CC Avenue"
+                      android:textColor="#ffffff" />
+
+                  <TextView
+                      android:id="@+id/textView9"
+                      android:layout_width="match_parent"
+                      android:layout_height="wrap_content"
+                      android:layout_marginTop="10dp"
+                      android:layout_marginLeft="10dp"
+                      android:layout_marginRight="10dp"
+                      android:layout_weight="1.05"
+                      android:gravity="right"
+                      android:text="For international users it is recomended to"
+                      android:textAppearance="?android:attr/textAppearanceLarge"
+                      android:textSize="18sp" />
+
+                    <Button
+                        android:id="@+id/button2"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_gravity="right"
+                        android:layout_marginBottom="30dp"
+                        android:layout_marginRight="10dp"
+                        android:layout_weight="0.85"
+                        android:background="@drawable/button_shape"
+                        android:gravity="center"
+                        android:padding="20dp"
+                        android:text="Pay with Paypal"
+                        android:textColor="#ffffff" />
+               
+            <LinearLayout
+                android:id="@+id/linr"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_weight="0.95"
+                android:background="@drawable/my_shape5"
+                android:orientation="horizontal"
+                android:visibility="invisible" >
+
+                   <TextView
+                       android:id="@+id/textView10"
+                       android:layout_width="wrap_content"
+                       android:layout_height="48dp"
+                       android:textSize="18sp"
+                       android:layout_marginLeft="10dp"
+                       android:text=""
+                       android:textAppearance="?android:attr/textAppearanceLarge"
+                       android:textColor="#ff0000"
+                        />
+
+                   <TextView
+            
+            android:id="@+id/textView11"
+           
+            android:layout_width="wrap_content" 
+            android:layout_height="wrap_content"
+            android:textSize="18sp"
+            android:linksClickable="true"
+            android:textColor="#337ab7"
+           
+            
+            android:text=""
+            android:textAppearance="?android:attr/textAppearanceLarge" />
+                   <TextView
+            
+            android:id="@+id/textView12"
+           
+            android:layout_width="wrap_content" 
+            android:layout_height="wrap_content"
+            
+            android:textSize="18sp"
+            android:textColor="#ff0000"
+            
+            
+            android:text=""
+            android:textAppearance="?android:attr/textAppearanceLarge" />
+                   <TextView
+            
+            android:id="@+id/textView13"
+           
+            android:layout_width="wrap_content" 
+            android:layout_height="wrap_content"
+           
+             android:linksClickable="true"
+            android:textColor="#337ab7"
+            
+            android:textSize="18sp"
+            android:text=""
+            android:textAppearance="?android:attr/textAppearanceLarge" />
+                   <TextView
+            
+            android:id="@+id/textView14"
+           
+            android:layout_width="wrap_content" 
+            android:layout_height="wrap_content"
+            
+            
+            android:textColor="#ff0000"
+           android:textSize="18sp"
+            android:text=""
+            android:textAppearance="?android:attr/textAppearanceLarge" />
+             </LinearLayout> 
+                          </LinearLayout>
+        </LinearLayout>
+        
+    </LinearLayout>
+</LinearLayout>
+</LinearLayout>

@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:background="#fff"
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
+
+    <EditText
+        android:id="@+id/editText1"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:ems="10"
+        android:layout_weight=".7"
+        android:paddingLeft="10dp"
+         android:layout_marginLeft="20dp"
+        android:layout_marginRight="20dp"
+        android:layout_marginTop="30dp"
+        android:hint="enter first name"
+        android:inputType="textPersonName" 
+        android:background="@drawable/shape_edittext">
+
+        <requestFocus />
+    </EditText>
+      <EditText
+        android:id="@+id/editText2"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight=".7"
+        android:paddingLeft="10dp"
+        android:hint="last name"
+        android:ems="10"
+        android:layout_marginLeft="20dp"
+        android:layout_marginRight="20dp"
+        android:layout_marginTop="10dp"
+        
+        android:inputType="textPersonName" 
+        android:background="@drawable/shape_edittext">
+
+        
+    </EditText>
+    <EditText
+        android:id="@+id/editText3"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:ems="10"
+        android:layout_weight=".7"
+        android:hint="email"
+        android:paddingLeft="10dp"
+        android:layout_marginLeft="20dp"
+        android:layout_marginRight="20dp"
+        android:layout_marginTop="10dp"
+        
+        android:inputType="textPersonName" 
+        android:background="@drawable/shape_edittext">
+
+      
+    </EditText>
+      <EditText
+        android:id="@+id/editText4"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:ems="10"
+        android:layout_marginLeft="20dp"
+        android:layout_marginRight="20dp"
+        android:hint="mobile"
+        android:inputType="number"
+        android:layout_marginTop="10dp"
+        android:layout_weight=".7"
+        android:paddingLeft="10dp"
+        
+        android:background="@drawable/shape_edittext">
+
+      
+    </EditText>
+    <EditText
+        android:id="@+id/editText5"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:ems="10"
+        android:layout_weight=".7"
+        android:paddingLeft="10dp"
+        android:layout_marginLeft="20dp"
+        android:layout_marginRight="20dp"
+        android:hint="referal mail id"
+        android:layout_marginTop="10dp"
+        
+        android:inputType="textPersonName" 
+        android:background="@drawable/shape_edittext">
+
+       
+    </EditText>
+
+    <Button
+        android:id="@+id/button1"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight=".7"
+         android:layout_marginLeft="20dp"
+        android:layout_marginRight="20dp"
+        android:layout_marginTop="10dp"
+        android:background="@drawable/selecter"
+        android:text="Button" />
+    
+    
+    <TextView
+        android:id="@+id/textView1"
+        android:layout_width="wrap_content"
+        android:layout_marginTop="20dp"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:layout_marginLeft="20dp"
+        android:background="@drawable/selecter1"
+        android:visibility="gone"
+        android:text="By signing up you agree to palle university"
+        android:textAppearance="?android:attr/textAppearanceMedium" />
+ 
+
+    <LinearLayout  android:orientation="vertical"
+        
+        android:layout_width="wrap_content"
+        android:layout_height="0dp"
+        android:layout_marginTop="10dp"
+        android:layout_marginLeft="20dp"
+        android:layout_marginRight="20dp"
+        android:gravity="center"
+        android:layout_weight="2">
+    
+    <TextView
+        android:id="@+id/textView0"
+        android:layout_width="match_parent"
+        android:layout_marginTop="10dp"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:text="By signing up you agree to palle university"
+        android:textAppearance="?android:attr/textAppearanceMedium" />
+    <LinearLayout 
+        android:orientation="horizontal"
+        
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content">
+
+    <TextView
+        android:id="@+id/textView3"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_weight="4.54"
+        android:autoLink="web"
+        android:gravity="center"
+        android:linksClickable="true"
+        android:text="@string/terms"
+        android:textAppearance="?android:attr/textAppearanceMedium"
+        android:textColor="#0085b2" />
+    
+     <TextView
+        android:id="@+id/textView5"
+        android:layout_width="0dp"
+        
+        android:layout_height="wrap_content"
+        android:layout_weight="3"
+        android:gravity="center"
+        android:paddingLeft="5dp"
+        android:paddingRight="5dp"
+        android:text="@string/and"
+        android:textAppearance="?android:attr/textAppearanceMedium" />
+     <TextView
+        android:id="@+id/textView4"
+        android:layout_width="0dp"
+        
+        android:layout_height="wrap_content"
+        android:layout_weight="4"
+        android:gravity="center"
+          android:autoLink="web" 
+    android:textColor="#0085b2"
+    android:linksClickable="true"
+        android:text="@string/privacy"
+        android:textAppearance="?android:attr/textAppearanceMedium" />
+    
+   </LinearLayout>
+   
+    
+    </LinearLayout>
+
+</LinearLayout>

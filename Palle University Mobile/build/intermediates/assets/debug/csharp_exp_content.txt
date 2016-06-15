@@ -1,0 +1,92 @@
+<h2>About the course :</h2>
+   This course designed for the experienced professionals as well as for fresher’s who wants to understand
+   in and out of C# language along with Garbage collection, Generics, Delegates and collections. 
+   This course is the pre requisite for learning other advanced technologies present in .net platform.
+   <br>
+
+<h3>Course Key features :</h3>
+  
+   1. All concepts are explained on the board with the help of diagrams.<br>
+   2. Explained all the concepts in a simplified fashion.<br>
+   3. Each topic having exercises/Assignments.<br>
+   4. In-depth subject understanding and hence you will get expertise on C# language.<br>
+   5. Each topic having carefully selected question for testing the subject knowledge.
+
+<h3>Course content :</h3>
+   This course is divided into 15 modules. <br>
+   <b style="color:green">C# Programing basics :</b>
+     This module covers C# program compilation, Execution, data types, data type’s conversion 
+	 Methods conditional statements debugging technique and the arrays and loops concepts along with objects and constructors.<br>
+	 After completion of this module you will get basic programing knowledge.<br>
+  <b style="color:green">OOPS :</b>
+  This module covers the following C# Object oriented programing language features.<br>
+    Encapsulation, Abstraction, Inheritance, Polymorphism, Object class, Upcasting
+	Downcasting, Returning objects from methods, this and base keywords,	Namespaces, Access specifiers
+	Overloading, Overriding, Sealed methods, Instance members and static members.<br>
+	After completion of this module you will get good knowledge in object oriented programing language.<br>
+  <b style="color:green">Files :</b>
+  This module covers basic file IO operations.<br>
+  <b style="color:green">Types of classes :</b>
+  This module covers different types of classes supported in C# language which includes
+  Instance, Sealed, Static, Abstract, Partial and Nested classes.<br>
+  <b style="color:green">Interfaces :</b>
+  This module explains the usage of interfaces and different ways of implementing interfaces including the
+  differences between interfaces and abstract classes.<br>
+  <b style="color:green">Properties and Indexers :</b>
+  This module covers the need and implementation details of properties and Indexers.<br>
+  <b style="color:green">Value types and reference types :</b>
+  This module explains the differences between value types and reference types.
+  Different types of value types supported in C# which includes Structs, Enums, the special keywords like ref out and the
+  pass by value and pass by reference concepts.<br>
+  <b style="color:green">Exception handling :</b>
+  This module covers the use of exception handling and the various ways of handling exceptions,
+  the importance of try catch and finally blocks, logging the exceptions, throw keyword and the custom exceptions.  <br>
+
+  <b style="color:green">.Net Framework :</b>
+  This module explains the different components present in .NET frame work which includes
+  MSIL, CTS, CLS, ILDASM, Assemblies and types of assemblies.<br>
+
+  <b style="color:green">Garbage Collection :</b>
+  This module explains the working mechanism of Garbage collector and effect of destructors on Garbage collection process 
+  and the importance of IDisposable interface.<br>
+
+  <b style="color:green">Collections :</b>
+  This module covers different types of collections present in .net framework which includes
+  ArrayList, Hashtable, ListDictionary, Stack and Queue.<br>
+
+  <b style="color:green">Generics :</b>
+  This module explains the advantages with generics and different ways of creating and using Generics in .NET 
+  and the different generic collection classes present in .NET framework.
+  <br>
+
+  <b style="color:green">Delegates :</b>
+  This module explains the importance of delegates, Types of delegates and the internal working mechanism of delegates.
+  <br>
+
+  <b style="color:green">Attributes and Reflections :</b>
+  This module covers the Attributes and reflections techniques which are used for Reading and modifying Metadata present in
+  Assemblies.
+  <br>
+
+  <b style="color:green">Miscellaneous concepts :</b>
+  This module covers different keywords present in c# like params, var, is, as and other frequently used concepts in C# language 
+  like for each loop, nullable types, Extension methods, named and optional arguments.<br>
+   
+<h3> Pre Requisites :</h3>
+
+    1. Prior programming language basics are not required.<br>
+	2. Trainer assumed that participants don't have prior programming knowledge
+	  and starts the course coverage from very basics.<br>
+<h3> who should go for this course? </h3>
+
+   1. Any student who completed their graduation in any discipline.<br>
+   2. Any working professional who is already working for any IT company.<br>
+   3. Any school student who is having C# language in their academics.<br>
+
+<h3> Why Palle University? </h3>
+
+1. The trainers in Palle University are well experienced.<br>
+2. Average IT industry experience of our trainers is 10 years.<br>
+3. All the concepts are explained with traditional boards.<br>
+4. All concepts are explained with the help of diagrams.<br>
+5. Sequence of tests are included after each and every topic.

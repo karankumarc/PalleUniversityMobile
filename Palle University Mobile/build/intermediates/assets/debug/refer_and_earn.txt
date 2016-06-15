@@ -1,0 +1,36 @@
+<h2>Refer and Earn :</h2>
+
+ We are proud to introduce Referal policy to the existing and new users of Palle University. As part of the referal program 
+ you can earn upto 30% of the course fee once the refered user buy the course.For more details see the FAQ's.<br>
+ 
+<h3 style="color:green">How to earn from a referral policy?</h3>
+
+ Its simple refer a user to Palle University. Once the refered user purcahses first course the referer (you) will get 30% money from the money received by Palle University.<br>
+
+<h3 style="color:green">What If a refered user purchases More than one course?</h3>
+
+ You will get referal bonus only for the first course purchase but not from sub sequent purchases.<br>
+ 
+<h3 style="color:green">Can I refer more than one user?</h3>
+
+ Yes. You can refer as many users as possible, there is no limitation on number of referals.<br>
+
+<h3 style="color:green">How much i earn if I refer X users?</h3>
+
+If each users purchases a single course and paying Y amount for each course you will get 30% of X*Y amount.<br>
+
+Example: Let's say you refered 2 users to Palle University. Assuming First user purchased .Net course for 10000 INR, and Second User Purcahsed android course for 9000 INR In this case you will get 30% of (10000+9000) that is 5700 INR.<br>
+
+<h3 style="color:green">How Do I get my payment?</h3>
+
+Palle University Pays money through wire transfer/ Money tranfer through a Bank.<br>
+
+<h3 style="color:green">When Do I get my payment?</h3>
+
+Usually you will get money after 1 month after receiving fee from the referer.<br>
+
+Example: Let's say you refered Mr.X to Palle University and earned 5000 INR as a referal bonus on 1st Nov 2015 you will receive Money on 1st Dec 2015.<br>
+
+<h3 style="color:green">What is the Eligibility for participating in referal program?</h3>
+
+You must have Indian bank account for participating in the refer and earn program.

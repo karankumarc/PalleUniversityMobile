@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="D:\Android\AndroidStudioProjects\PalleTech\POC2\Palle University Mobile\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\8.1.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="d0dda274b703dd9c5bb056867649d22b4171ae7d">
+        <dex dex="D:\Android\AndroidStudioProjects\PalleTech\POC2\Palle University Mobile\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-basement-8.1.0_554cf508bdfeebed8e0cc8a24183457fd4f19263\classes.dex" />
+    </item>
+    <item
+        jar="D:\Android\AndroidStudioProjects\PalleTech\POC2\Palle University Mobile\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.1\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="6cbc7773921fcfedbe55657578f0cbfe614778dc">
+        <dex dex="D:\Android\AndroidStudioProjects\PalleTech\POC2\Palle University Mobile\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-23.1.1_2a812566bb78773e7ee6b3687aa41af29b70cce0\classes.dex" />
+    </item>
+    <item
+        jar="D:\Android\AndroidStudioProjects\PalleTech\POC2\Palle University Mobile\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.1\jars\libs\internal_impl-23.1.1.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="a4de9c81ae239414e1ed0f86441b02abaf29bca9">
+        <dex dex="D:\Android\AndroidStudioProjects\PalleTech\POC2\Palle University Mobile\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-23.1.1_1554c3a3f0ec57ed2918d44ad221835cd7534383\classes.dex" />
+    </item>
+    <item
+        jar="D:\Android\AndroidStudioProjects\PalleTech\POC2\Palle University Mobile\libs\YouTubeAndroidPlayerApi.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="3c4f96ff493456651cc7bdb0b47e10eb25545a16">
+        <dex dex="D:\Android\AndroidStudioProjects\PalleTech\POC2\Palle University Mobile\build\intermediates\transforms\dex\debug\folders\1000\2\YouTubeAndroidPlayerApi_adbdfd50cda779dc8cfe4e7c7c9c66bbb997385f\classes.dex" />
+    </item>
+    <item
+        jar="D:\Android\AndroidStudioProjects\PalleTech\POC2\Palle University Mobile\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="a25036be2589732447e0a9b61ea263daa636b176">
+        <dex dex="D:\Android\AndroidStudioProjects\PalleTech\POC2\Palle University Mobile\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_16c546d36726d6838e688a610657e86c075d0d96\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\ADMIN\AppData\Local\Android\Sdk\extras\android\m2repository\com\android\support\support-annotations\23.1.1\support-annotations-23.1.1.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="8d680ba5a623724d1fb0e81c36a790f023a6cede">
+        <dex dex="D:\Android\AndroidStudioProjects\PalleTech\POC2\Palle University Mobile\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-23.1.1_41f8426e102bbf1c6107d2ac8a3cd6f68f27e74f\classes.dex" />
+    </item>
+    <item
+        jar="D:\Android\AndroidStudioProjects\PalleTech\POC2\Palle University Mobile\build\intermediates\exploded-aar\com.android.support\cardview-v7\23.1.1\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="5e412e954a24c5310a459c09870e4e2081aceb03">
+        <dex dex="D:\Android\AndroidStudioProjects\PalleTech\POC2\Palle University Mobile\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-cardview-v7-23.1.1_1d94258f7f4e2ce91f174573bb291acc0963e335\classes.dex" />
+    </item>
+    <item
+        jar="D:\Android\AndroidStudioProjects\PalleTech\POC2\Palle University Mobile\libs\PayPalAndroidSDK-2.11.2.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="60c3be895ef76ec0076fa557f2091f144af20bb0">
+        <dex dex="D:\Android\AndroidStudioProjects\PalleTech\POC2\Palle University Mobile\build\intermediates\transforms\dex\debug\folders\1000\2\PayPalAndroidSDK-2.11.2_a272c47b9cad4aa53bbf332370869363804ff5af\classes.dex" />
+    </item>
+    <item
+        jar="D:\Android\AndroidStudioProjects\PalleTech\POC2\Palle University Mobile\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\23.1.1\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="09c5e804bc67fc0580360043dff067df574a60d4">
+        <dex dex="D:\Android\AndroidStudioProjects\PalleTech\POC2\Palle University Mobile\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-recyclerview-v7-23.1.1_5fa58767c547c97cc36637375049676d6839bc7a\classes.dex" />
+    </item>
+    <item
+        jar="D:\Android\AndroidStudioProjects\PalleTech\POC2\Palle University Mobile\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="54e4bc189c6a8e4400346d1bb77e6fec7ad15454">
+        <dex dex="D:\Android\AndroidStudioProjects\PalleTech\POC2\Palle University Mobile\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_5797ffe21cf36af4ab6a18de18be11ef673e72b4\classes.dex" />
+    </item>
+    <item
+        jar="D:\Android\AndroidStudioProjects\PalleTech\POC2\Palle University Mobile\build\intermediates\exploded-aar\com.google.android.gms\play-services-appindexing\8.1.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="4477ea44f5ec5ad064022a22691732d7638ff197">
+        <dex dex="D:\Android\AndroidStudioProjects\PalleTech\POC2\Palle University Mobile\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-appindexing-8.1.0_552bfbed5d4f62a1be7ea34b3b2f7869478c4576\classes.dex" />
+    </item>
+    <item
+        jar="D:\Android\AndroidStudioProjects\PalleTech\POC2\Palle University Mobile\build\intermediates\exploded-aar\com.android.support\design\23.1.1\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="379471b2bd17d9737c050345c08e8c7d16589784">
+        <dex dex="D:\Android\AndroidStudioProjects\PalleTech\POC2\Palle University Mobile\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-design-23.1.1_0d91eac0bbac790ffee4e236d489f23a99f451be\classes.dex" />
+    </item>
+    <item
+        jar="D:\Android\AndroidStudioProjects\PalleTech\POC2\Palle University Mobile\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.1.1\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="5c5699834e9722f1c288fea2de82725d078ba127">
+        <dex dex="D:\Android\AndroidStudioProjects\PalleTech\POC2\Palle University Mobile\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-23.1.1_8ab025959d013e2bd5388f1458a8284a4662d498\classes.dex" />
+    </item>
+
+</items>

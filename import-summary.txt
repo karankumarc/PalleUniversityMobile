@@ -1,0 +1,184 @@
+ECLIPSE ANDROID PROJECT IMPORT SUMMARY
+======================================
+
+Risky Project Location:
+-----------------------
+The tools *should* handle project locations in any directory. However,
+due to bugs, placing projects in directories containing spaces in the
+path, or characters like ", ' and &, have had issues. We're working to
+eliminate these bugs, but to save yourself headaches you may want to
+move your project to a location where this is not a problem.
+E:\ResumeBuilderPro (5)\POC2
+                   -        
+
+Ignored Files:
+--------------
+The following files were *not* copied into the new Gradle project; you
+should evaluate whether these are still needed in your project and if
+so manually move them:
+
+From POC:
+* ic_launcher-web.png
+* proguard-project.txt
+From cardview:
+* .gradle\
+* .gradle\2.8\
+* .gradle\2.8\taskArtifacts\
+* .gradle\2.8\taskArtifacts\cache.properties
+* .gradle\2.8\taskArtifacts\cache.properties.lock
+* .gradle\2.8\taskArtifacts\fileHashes.bin
+* .gradle\2.8\taskArtifacts\fileSnapshots.bin
+* .gradle\2.8\taskArtifacts\outputFileStates.bin
+* .gradle\2.8\taskArtifacts\taskArtifacts.bin
+* .idea\
+* .idea\.name
+* .idea\compiler.xml
+* .idea\copyright\
+* .idea\copyright\profiles_settings.xml
+* .idea\encodings.xml
+* .idea\gradle.xml
+* .idea\libraries\
+* .idea\libraries\android_support_v7_cardview.xml
+* .idea\misc.xml
+* .idea\modules.xml
+* .idea\runConfigurations.xml
+* .idea\vcs.xml
+* .idea\workspace.xml
+* app\
+* app\app.iml
+* app\build.gradle
+* app\build\
+* app\build\generated\
+* app\build\generated\source\
+* app\build\generated\source\buildConfig\
+* app\build\generated\source\buildConfig\androidTest\
+* app\build\generated\source\buildConfig\androidTest\debug\
+* app\build\generated\source\buildConfig\androidTest\debug\android\
+* app\build\generated\source\buildConfig\androidTest\debug\android\support\
+* app\build\generated\source\buildConfig\androidTest\debug\android\support\v7\
+* app\build\generated\source\buildConfig\androidTest\debug\android\support\v7\cardview\
+* app\build\generated\source\buildConfig\androidTest\debug\android\support\v7\cardview\test\
+* app\build\generated\source\buildConfig\androidTest\debug\android\support\v7\cardview\test\BuildConfig.java
+* app\build\generated\source\buildConfig\debug\
+* app\build\generated\source\buildConfig\debug\android\
+* app\build\generated\source\buildConfig\debug\android\support\
+* app\build\generated\source\buildConfig\debug\android\support\v7\
+* app\build\generated\source\buildConfig\debug\android\support\v7\cardview\
+* app\build\generated\source\buildConfig\debug\android\support\v7\cardview\BuildConfig.java
+* app\build\generated\source\r\
+* app\build\generated\source\r\debug\
+* app\build\generated\source\r\debug\android\
+* app\build\generated\source\r\debug\android\support\
+* app\build\generated\source\r\debug\android\support\v7\
+* app\build\generated\source\r\debug\android\support\v7\cardview\
+* app\build\generated\source\r\debug\android\support\v7\cardview\R.java
+* app\build\intermediates\
+* app\build\intermediates\blame\
+* app\build\intermediates\blame\res\
+* app\build\intermediates\blame\res\debug\
+* app\build\intermediates\blame\res\debug\multi\
+* app\build\intermediates\blame\res\debug\multi\values.json
+* app\build\intermediates\incremental\
+* app\build\intermediates\incremental\compileDebugAidl\
+* app\build\intermediates\incremental\compileDebugAidl\dependency.store
+* app\build\intermediates\incremental\compileDebugAndroidTestAidl\
+* app\build\intermediates\incremental\compileDebugAndroidTestAidl\dependency.store
+* app\build\intermediates\incremental\mergeDebugAndroidTestAssets\
+* app\build\intermediates\incremental\mergeDebugAndroidTestAssets\merger.xml
+* app\build\intermediates\incremental\mergeDebugAndroidTestResources\
+* app\build\intermediates\incremental\mergeDebugAndroidTestResources\merger.xml
+* app\build\intermediates\incremental\mergeDebugAssets\
+* app\build\intermediates\incremental\mergeDebugAssets\merger.xml
+* app\build\intermediates\incremental\mergeDebugResources\
+* app\build\intermediates\incremental\mergeDebugResources\merger.xml
+* app\build\intermediates\manifest\
+* app\build\intermediates\manifest\androidTest\
+* app\build\intermediates\manifest\androidTest\debug\
+* app\build\intermediates\manifest\androidTest\debug\AndroidManifest.xml
+* app\build\intermediates\manifests\
+* app\build\intermediates\manifests\full\
+* app\build\intermediates\manifests\full\debug\
+* app\build\intermediates\manifests\full\debug\AndroidManifest.xml
+* app\build\intermediates\res\
+* app\build\intermediates\res\merged\
+* app\build\intermediates\res\merged\debug\
+* app\build\intermediates\res\merged\debug\values\
+* app\build\intermediates\res\merged\debug\values\values.xml
+* app\build\intermediates\res\resources-debug-androidTest.ap_
+* app\build\intermediates\res\resources-debug.ap_
+* app\build\outputs\
+* app\build\outputs\logs\
+* app\build\outputs\logs\manifest-merger-debug-report.txt
+* app\src\
+* app\src\main\
+* app\src\main\AndroidManifest.xml
+* app\src\main\res\
+* app\src\main\res\values\
+* app\src\main\res\values\attrs.xml
+* app\src\main\res\values\colors.xml
+* app\src\main\res\values\dimens.xml
+* app\src\main\res\values\styles.xml
+* app\src\main\resources\
+* app\src\main\resources\.readme
+* build.gradle
+* cardview.iml
+* gradle\
+* gradle\wrapper\
+* gradle\wrapper\gradle-wrapper.jar
+* gradle\wrapper\gradle-wrapper.properties
+* gradlew
+* gradlew.bat
+* import-summary.txt
+* settings.gradle
+
+Replaced Jars with Dependencies:
+--------------------------------
+The importer recognized the following .jar files as third party
+libraries and replaced them with Gradle dependencies instead. This has
+the advantage that more explicit version information is known, and the
+libraries can be updated automatically. However, it is possible that
+the .jar file in your project was of an older version than the
+dependency we picked, which could render the project not compileable.
+You can disable the jar replacement in the import wizard and try again:
+
+android-support-v4.jar => com.android.support:support-v4:23.1.1
+
+Replaced Libraries with Dependencies:
+-------------------------------------
+The importer recognized the following library projects as third party
+libraries and replaced them with Gradle dependencies instead. This has
+the advantage that more explicit version information is known, and the
+libraries can be updated automatically. However, it is possible that
+the source files in your project were of an older version than the
+dependency we picked, which could render the project not compileable.
+You can disable the library replacement in the import wizard and try
+again:
+
+appcompat-v7 => [com.android.support:appcompat-v7:23.1.1]
+
+Moved Files:
+------------
+Android Gradle projects use a different directory structure than ADT
+Eclipse projects. Here's how the projects were restructured:
+
+* AndroidManifest.xml => pOC\src\main\AndroidManifest.xml
+* assets\ => pOC\src\main\assets\
+* libs\PayPalAndroidSDK-2.11.2.jar => pOC\libs\PayPalAndroidSDK-2.11.2.jar
+* libs\YouTubeAndroidPlayerApi.jar => pOC\libs\YouTubeAndroidPlayerApi.jar
+* res\ => pOC\src\main\res\
+* src\ => pOC\src\main\java\
+
+Next Steps:
+-----------
+You can now build the project. The Gradle project needs network
+connectivity to download dependencies.
+
+Bugs:
+-----
+If for some reason your project does not build, and you determine that
+it is due to a bug or limitation of the Eclipse to Gradle importer,
+please file a bug at http://b.android.com with category
+Component-Tools.
+
+(This import summary is for your information only, and can be deleted
+after import once you are satisfied with the results.)

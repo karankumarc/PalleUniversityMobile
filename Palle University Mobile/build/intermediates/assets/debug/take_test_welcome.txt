@@ -1,0 +1,1 @@
+<div id="msg">we request you to remember the following important information.<br/>1.Palle University considers your test score as a benchmark for your subject knowledge. Hence it may display relavent suggestions.<br/>2.When you are re-taking the test , we store latest test scores.<br/>3.Your course progress is tracked based on test scores.</div> 
